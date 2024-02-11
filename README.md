@@ -1,4 +1,4 @@
-<h1>Mobile Computing Experiment</h1>
+<h1>Mobile Computing Experiments</h1>
 <table>
   <tr>
     <th>Sr No</th>
