@@ -18,7 +18,7 @@
   </tr>
   <tr>
     <td>4</td>
-    <td>Implementation of income tax/loan EMI calculator and deploy the same on real devices</td>
+    <td>Implementation of income tax/loan EMI calculator and deploy the same on real device</td>
   </tr>
 </table>
 
