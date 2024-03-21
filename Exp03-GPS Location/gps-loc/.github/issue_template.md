@@ -1,9 +1,0 @@
-...DEFINE YOUR ISSUE...
-
-### Configuration
-```java
-PLEASE SHARE YOUR CONFIGURATION OBJECT HERE
-```
-
-### Logs
-PLEASE SHARE YOUR LOGS
