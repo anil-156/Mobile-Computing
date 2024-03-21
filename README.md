@@ -20,5 +20,13 @@
     <td>4</td>
     <td>Implementation of income tax/loan EMI calculator and deploy the same on real device</td>
   </tr>
+   <tr>
+    <td>5</td>
+    <td>To understand the cellular frequency reuse concept to find the co-channel cells for a particular cell.</td>
+  </tr>
+   <tr>
+    <td>8</td>
+    <td>To implement Hidden and Terminal Exposed</td>
+  </tr>
 </table>
 
