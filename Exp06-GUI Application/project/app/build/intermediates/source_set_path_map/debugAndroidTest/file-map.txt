@@ -1,7 +1,0 @@
-com.example.weatherapp.test.app-androidTest-0 C:\Users\sawan\Downloads\Exp01\Experiment No 7 - Basic GUI Application\app\build\generated\res\resValues\androidTest\debug
-com.example.weatherapp.test.app-androidTest-1 C:\Users\sawan\Downloads\Exp01\Experiment No 7 - Basic GUI Application\app\build\generated\res\rs\androidTest\debug
-com.example.weatherapp.test.app-mergeDebugAndroidTestResources-2 C:\Users\sawan\Downloads\Exp01\Experiment No 7 - Basic GUI Application\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
-com.example.weatherapp.test.app-mergeDebugAndroidTestResources-3 C:\Users\sawan\Downloads\Exp01\Experiment No 7 - Basic GUI Application\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
-com.example.weatherapp.test.app-merged_res-4 C:\Users\sawan\Downloads\Exp01\Experiment No 7 - Basic GUI Application\app\build\intermediates\merged_res\debugAndroidTest
-com.example.weatherapp.test.app-androidTest-5 C:\Users\sawan\Downloads\Exp01\Experiment No 7 - Basic GUI Application\app\src\androidTest\res
-com.example.weatherapp.test.app-androidTestDebug-6 C:\Users\sawan\Downloads\Exp01\Experiment No 7 - Basic GUI Application\app\src\androidTestDebug\res

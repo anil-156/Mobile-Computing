@@ -1,1 +1,1 @@
-com.example.weatherapp.test
+com.shashank.platform.busbookingappui.test

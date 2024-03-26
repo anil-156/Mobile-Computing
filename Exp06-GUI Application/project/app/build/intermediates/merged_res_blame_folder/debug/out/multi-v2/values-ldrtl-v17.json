@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.weatherapp-mergeDebugResources-27:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "C:\\Users\\sawan\\Downloads\\Experiment_7- GUI Application\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldrtl-v17\\values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sawan\\.gradle\\caches\\transforms-3\\1657eaacfdf73cb5b94d8778151083b3\\transformed\\material-1.6.1\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\sawan\\.gradle\\caches\\transforms-3\\1c7ecbfecc1df8f34183f044d7ec469e\\transformed\\material-1.4.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

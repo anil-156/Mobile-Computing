@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.example.weatherapp-mergeDebugResources-27:/values-port/values-port.xml",
+            "outputFile": "C:\\Users\\sawan\\Downloads\\Experiment_7- GUI Application\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-port\\values-port.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\sawan\\.gradle\\caches\\transforms-3\\3237c50a3caa87d96377052b95ee4677\\transformed\\appcompat-1.5.1\\res\\values-port\\values-port.xml",
+                    "source": "C:\\Users\\sawan\\.gradle\\caches\\transforms-3\\ed1499e75bdcd852a35a79fe63f0c269\\transformed\\appcompat-1.3.1\\res\\values-port\\values-port.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
